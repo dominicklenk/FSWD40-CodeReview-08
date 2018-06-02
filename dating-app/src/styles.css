@@ -1,0 +1,28 @@
+/* You can add global styles to this file, and also import other style files */
+
+.jumbotron {
+    background: url("/assets/images/coders_heading.jpg") no-repeat center center;
+    text-align: center;
+    color: white;
+    padding:  100px 30px;
+}
+
+img {
+	max-width: 200px;
+}
+
+.card {
+	background-color: beige;
+	max-width: 240px;
+	padding: 20px;
+	border:  1px sandybrown solid;
+	margin: 0 auto 20px;
+}
+.fas.fa-female,
+.fas.fa-male {
+	font-size: 30px;
+}
+
+h4 span {
+	float: right;
+}

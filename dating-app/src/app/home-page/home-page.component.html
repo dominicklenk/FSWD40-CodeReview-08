@@ -1,0 +1,28 @@
+<div class="container">
+  <router-outlet></router-outlet>
+
+<div class="row">
+  <div class="col-lg-3 col-md-6 col-sm-12" *ngFor="let candidates of candidates">
+    
+    <div class="row">
+        <div class="col-12 card">
+          <img class="img-fluid" src="{{candidates.image}}" alt="{{candidates.name}}-Image">
+        
+            <h4>{{candidates.name}}  {{candidates.surname}}
+      <span *ngIf="candidates.gender =='male'; else female"><i class="fas fa-male"></i></span>
+            <ng-template #female><span><i class="fas fa-female"></i></span></ng-template>
+            </h4>
+            <p>Age: {{candidates.age}}</p>
+        
+            <p *ngIf="candidates.inRelation; else single">{{candidates.name}} is <strong>in relation</strong></p>
+            <ng-template #single><p>{{candidates.name}} is <strong>single</strong></p></ng-template>
+
+            
+
+            <small>Likes: {{candidates.likes}}</small>
+        </div>
+    </div>
+  </div>
+</div>
+
+</div>

@@ -1,0 +1,146 @@
+[
+	{
+	"name": "Robert S",
+	"surname": "Boyles",
+	"image": "../assets/images/boyles.jpg",
+	"age": 33,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Michele J",
+	"surname": "Ingram",
+	"image": "../assets/images/ingram.jpg",
+	"age": 30,
+	"gender": "female",
+	"inRelation": true,
+	"likes": 0
+	},
+	{
+	"name": "Danny D",
+	"surname": "Acosta",
+	"image": "../assets/images/acosta.jpg",
+	"age": 28,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Merle C",
+	"surname": "Branch",
+	"image": "../assets/images/branch.jpg",
+	"age": 34,
+	"gender": "female",
+	"inRelation": true,
+	"likes": 0
+	},
+	{
+	"name": "Lynn P",
+	"surname": "West",
+	"image": "../assets/images/west.jpg",
+	"age": 26,
+	"gender": "female",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Michael L",
+	"surname": "Dougles",
+	"image": "../assets/images/dougles.jpg",
+	"age": 25,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Terrence L",
+	"surname": "Burton",
+	"image": "../assets/images/burton.jpg",
+	"age": 27,
+	"gender": "male",
+	"inRelation": true,
+	"likes": 0
+	},
+	{
+	"name": "Robert D",
+	"surname": "Bauer",
+	"image": "../assets/images/bauer.jpg",
+	"age": 30,
+	"gender": "male",
+	"inRelation": true,
+	"likes": 0
+	},
+	{
+	"name": "Catherine D",
+	"surname": "Kalman",
+	"image": "../assets/images/kalman.jpg",
+	"age": 29,
+	"gender": "female",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Eric M",
+	"surname": "Hamilton",
+	"image": "../assets/images/hamilton.jpg",
+	"age": 32,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Eric P",
+	"surname": "Gualtieri",
+	"image": "../assets/images/gualtieri.jpg",
+	"age": 27,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Ricken",
+	"surname": "Patel",
+	"image": "../assets/images/patel.jpg",
+	"age": 41,
+	"gender": "male",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Billy J",
+	"surname": "Boutwell",
+	"image": "../assets/images/boutwell.jpg",
+	"age": 33,
+	"gender": "not specified",
+	"inRelation": true,
+	"likes": 0
+	},
+	{
+	"name": "Christine",
+	"surname": "Hauser",
+	"image": "../assets/images/hauser.jpg",
+	"age": 29,
+	"gender": "female",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Maurice",
+	"surname": "Edwards",
+	"image": "../assets/images/edwards.jpg",
+	"age": 35,
+	"gender": "not specified",
+	"inRelation": false,
+	"likes": 0
+	},
+	{
+	"name": "Ashley",
+	"surname": "Abbott",
+	"image": "../assets/images/abbott.jpg",
+	"age": 27,
+	"gender": "female",
+	"inRelation": false,
+	"likes": 0
+	}
+]
