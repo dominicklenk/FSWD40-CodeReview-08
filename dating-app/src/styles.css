@@ -3,8 +3,13 @@
 .jumbotron {
     background: url("/assets/images/coders_heading.jpg") no-repeat center center;
     text-align: center;
-    color: white;
+    color: black;
     padding:  100px 30px;
+}
+
+h2 {
+	margin-bottom: 30px;
+	color:  tomato;
 }
 
 img {
@@ -12,10 +17,10 @@ img {
 }
 
 .card {
-	background-color: beige;
+	background-color: snow;
 	max-width: 240px;
 	padding: 20px;
-	border:  1px sandybrown solid;
+	border:  1px tomato solid;
 	margin: 0 auto 20px;
 }
 .fas.fa-female,
